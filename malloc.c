@@ -14,7 +14,7 @@ int main()
 
     if (!arr)
     {
-        printf("malloc failed");
+        printf("malloc failed\n");
         return 1;
     }
 
